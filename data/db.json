@@ -1,0 +1,309 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "category": ["Air purifying", "Medium Plants"],
+      "price": "84.90",
+      "name": "Birdnest Japanese",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-8.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-20.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-8.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "category": ["Indoor Plants", "Low maintenance", "Small Plants"],
+      "price": "64.00",
+      "name": "Hoya Obovatum",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-5.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-5.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-13.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "category": ["Air purifying", "Large Plants", "Plant bundle"],
+      "price": "224.90",
+      "name": "Monstera Deliciosa",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-14.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-14.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-6.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "category": ["Herbs seeds", "Indoor Plants", "Medium Plants"],
+      "price": "124.90",
+      "name": "Zz Plants",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-16.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-16.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-19.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "category": ["Ceramic pots", "Large Plants", "Plant bundle"],
+      "price": "249.00",
+      "name": "Bird of Paradise",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-4.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-4.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-12.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "category": ["Herbs seeds", "Medium Plants", "Plant bundle"],
+      "price": "79.90",
+      "name": "Calathea Beauty Star",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-7.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-7.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-5.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "category": ["Air purifying", "Large Plants", "Low maintenance"],
+      "price": "204.90",
+      "name": "Alocasia Regal Shield",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-17.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-17.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-7.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "category": ["Air purifying", "Herbs seeds", "Large Plants"],
+      "price": "284.90",
+      "name": "Aralia Ming",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-19.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-19.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-10.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "category": ["Plant accessories"],
+      "price": "48.90",
+      "name": "Bypass Secateur",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-accessories-product-featured-img-3.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada."
+    },
+    {
+      "id": "9",
+      "category": ["Herbs seeds", "Large Plants", "Low maintenance"],
+      "price": "109.90",
+      "name": "Calathea Rufibarba",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-18.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-18.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-3.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "category": ["Air purifying", "Indoor Plants", "Large Plants"],
+      "price": "114.90",
+      "name": "Dracaena Lisa",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-20.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-20.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-18.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "category": ["Ceramic pots", "Herbs seeds", "Medium Plants"],
+      "price": "104.90",
+      "name": "Euphorbia Ingens",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-10.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-10.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-9.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "category": ["Herbs seeds", "Indoor Plants", "Small Plants"],
+      "price": "89.90",
+      "name": "Ficus Decora Burgundy",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-2.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-2.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-15.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "category": ["Air purifying", "Ceramic pots", "Medium Plants"],
+      "price": "124.90",
+      "name": "Ficus Decora Cabernet",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-6.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-6.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-2.jpg"
+      ]
+    },
+    {
+      "id": "13",
+      "category": ["Air purifying", "Medium Plants", "Plant bundle"],
+      "price": "74.90",
+      "name": "Golden Pothos Pole",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-9.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-9.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-1.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "category": ["Ceramic pots", "Plant bundle", "Small Plants"],
+      "price": "74.90",
+      "name": "Pachira Braid",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-13.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-13.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-17.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "category": ["Low maintenance", "Plant bundle", "Small Plants"],
+      "price": "32.90",
+      "name": "Peperomia Lemon Lime",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-12.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-12.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-4.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "category": ["Low maintenance", "Plant bundle", "Small Plants"],
+      "price": "24.00",
+      "name": "Pilea Peperomioides",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-11.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-11.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-16.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "category": ["Ceramic pots", "Indoor Plants", "Medium Plants"],
+      "price": "49.90",
+      "name": "Sansevieria Golden Flame",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-3.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-3.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-8.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "category": ["Indoor Plants", "Large Plants", "Low maintenance"],
+      "price": "79.90",
+      "name": "Sansevieria Laurentii",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-1.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-1.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-14.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "category": ["Plant accessories"],
+      "price": "11.90",
+      "name": "Single Prong Weeder",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-accessories-product-featured-img-5.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada."
+    },
+    {
+      "id": "20",
+      "category": ["Indoor Plants", "Low maintenance", "Medium Plants"],
+      "price": "94.90",
+      "name": "Spathiphyllum",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-15.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.",
+      "images": [
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-shop-product-gallery-img-011.jpg",
+        "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-product-featured-img-15.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "category": ["Plant accessories"],
+      "price": "24.90",
+      "name": "Straight Blade Scissor",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-accessories-product-featured-img-4.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada."
+    },
+    {
+      "id": "22",
+      "category": ["Plant accessories"],
+      "price": "18.90",
+      "name": "Transplanter with Plastic Sleeve",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-accessories-product-featured-img-1.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada."
+    },
+    {
+      "id": "23",
+      "category": ["Plant accessories"],
+      "price": "20.90",
+      "name": "Trowel with Plastic Sleeve",
+      "image": "https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-ecommerce-accessories-product-featured-img-2.jpg",
+      "description": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices",
+      "text": "Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada."
+    }
+  ]
+}
